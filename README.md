@@ -1,2 +1,4 @@
 # Git_github
- Primeiro repositorio do curso de Git e Git Hub.
+ Primeiro repositório do curso de Git e Git Hub.
+ 
+ Essa linha adicionei remotamente
